@@ -1,0 +1,63 @@
+.Button1 {
+  padding: 15px 30px;
+  color: #fff3ec;
+  border: 1.5px solid black;
+  background-color: black;
+  font-size: 17px;
+  font-weight: bold;
+  border-radius: 15px;
+}
+.Button2 {
+  padding: 20px 30px;
+  border: 5px solid black;
+  font-size: 40px;
+  font-weight: bolder;
+  letter-spacing: 1.4em;
+  color: black;
+  background-color: transparent;
+}
+.butweb2 {
+  padding: 15px 30px;
+  color: #fff3ec;
+  border: 3px solid white;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.623);
+  font-size: 17px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+.butweb2:hover {
+  color: rgb(231, 143, 179);
+  font-size: 20px;
+  transition: all 0.2s ease-in;
+}
+.Buttonw3 {
+  padding: 15px;
+  background-color: transparent;
+  border-radius: 15px;
+  color: white;
+  border: 2px white solid;
+  font-size: 15px;
+}
+.Buttonw3:hover {
+  background-color: rgb(0, 0, 0);
+  font-weight: bold;
+
+  transition: all 0.3s ease-in-out;
+}
+.web4button {
+  padding: 15px 30px;
+  color: #fff3ec;
+  border: 3px solid white;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.623);
+  font-size: 17px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+.web4button:hover {
+  font-size: 20px;
+  color: rgb(231, 143, 179);
+
+  transition: all 0.2s ease-in;
+}
